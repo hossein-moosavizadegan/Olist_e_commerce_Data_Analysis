@@ -187,7 +187,6 @@ Interactive slicers allow users to explore the data by different dimensions.
 
 ---
 
-
 ## 📁 Project Structure
 
 ```text
@@ -210,7 +209,7 @@ Olist-E-Commerce-Analysis/
 │   └── olist_e_commerce_dasboard.pdf
 │
 └── README.md
-
+```
 ---
 
 ## 🚀 Future Improvements
@@ -247,6 +246,7 @@ This project demonstrates practical skills in:
 - Data Storytelling
 
 ---
+
 
 ## 👤 Author
 
